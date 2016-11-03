@@ -1,0 +1,5 @@
+<realm id="keyid-peri22x">
+  <property name="definition" language="en-US">Mappings from keyid to peri22x</property>
+  <property name="source">https://github.com/perinatologie/realm-keyid-peri22x</property>
+  <dependency name="peri22x" />
+</realm>
